@@ -1,1 +1,1 @@
-cs @ nd | primary c
+cs @ nd 
